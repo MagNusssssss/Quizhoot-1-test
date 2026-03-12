@@ -191,7 +191,7 @@ def create():
 
         save_quizzes(quizzes)
 
-        return redirect("/")
+        return redirect("home_de")
 
     return render_template("qui1_1_de_erstellen.html")
 

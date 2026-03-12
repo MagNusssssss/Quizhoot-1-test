@@ -1,1 +1,51 @@
-{}
+{
+    "Spanien": {
+        "question": "was ist die Hauptstadt von SPanien",
+        "a": "Madrid",
+        "b": "barcelona",
+        "c": "Valencia",
+        "correct": "a"
+    },
+    "ew": {
+        "question": "AERDHDH",
+        "a": "ADHDHFH",
+        "b": "HDHF",
+        "c": "HDHA",
+        "correct": "a"
+    },
+    "jfs": {
+        "question": "djdhj",
+        "a": "dgjh",
+        "b": "gj",
+        "c": "jdgh",
+        "correct": "b"
+    },
+    "sg": {
+        "question": "gd",
+        "a": "dag",
+        "b": "gdfg",
+        "c": "dfag",
+        "correct": "a"
+    },
+    "": {
+        "question": "",
+        "a": "",
+        "b": "",
+        "c": "",
+        "correct": ""
+    },
+    "Frankteich": {
+        "question": "Was ist die Hauptstadt von Frankreich",
+        "a": "Paris",
+        "b": "Sean",
+        "c": "Jegat",
+        "correct": "a"
+    },
+    "Was ist die Hauptstadt von Frankreich": {
+        "question": "Was ist die Hauptstadt von Frankreich",
+        "a": "Paris",
+        "b": "Sean",
+        "c": "jegat",
+        "correct": "a"
+    }
+}
